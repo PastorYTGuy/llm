@@ -1,0 +1,7 @@
+GOOGLE_API_KEY=twoj_google_api_klucz z google ai studios
+MODEL_NAME=gemini-2.5-flash-lite
+GROQ_API_KEY=twoj_groq_api_key z groq
+GROQ_MODEL_NAME=openai/gpt-oss-20b
+HF_API_TOKEN=hf_xxxxxxxxxxxxxxxxxxxxxx z huggingface
+HF_MODEL_NAME= nazwa zlapanego modelu
+LOCAL_MODEL_NAME= nazwa modelu lokalnego
